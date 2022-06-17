@@ -1,7 +1,7 @@
 ﻿<!-- welcome message -->
 <h1>Assalamu-alaikum. I'm SM Sabbir Mahmud and a professional full-stack Web Developer</h1>
 
-- 💻 full-stack Web Developer|| https://sabbirmahmud.com 
+- 💻 full-stack Web Developer || https://sabbirmahmud.com 
 - 📫 Email info@sabbirmahmud.com
 - 📍 Sirajganj, Bangladesh
 
