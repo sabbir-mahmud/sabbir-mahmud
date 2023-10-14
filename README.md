@@ -1,5 +1,5 @@
 ﻿<!-- welcome message -->
-![Profile Banner](<img src="https://server.sabbirmahmud.com/Media/images/IMG_E0564.JPG" width="100%" height="100%"/>)
+![Profile Banner](https://server.sabbirmahmud.com/Media/images/IMG_E0564.JPG)
 
 <h1>Welcome To <a target="_blank" href="https://sabbirmahmud.com/">SM Sabbir Mahmud's</a> Github Profile </h1>
 
