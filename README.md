@@ -2,7 +2,7 @@
 <h1>Welcome To <a target="_blank" href="https://sabbirmahmud.com/">SM Sabbir Mahmud's</a> Github Profile </h1>
 
 - <h3> 💻 Full-Stack Web Developer</h3>
-- <h3> 🚀 Python || Django || Node || Express || MongoDB || Next.js </h3>
+- <h3> 🚀 Python || Django || Node || Express || MongoDB || Next.js || GraphQL </h3>
 - <h3> 📫 Email: info@sabbirmahmud.com </h3>
 - <h3> 📍 Sirajganj, Bangladesh </h3>
 
