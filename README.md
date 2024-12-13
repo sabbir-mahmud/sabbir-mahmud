@@ -51,6 +51,7 @@
 <h3>Personal projects I've developed</h3>
 
 1. [Express-controller-set](https://www.npmjs.com/package/express-controller-sets)
+   Description: <h3>Node.js tool minimizes code duplication by offering a streamlined setup to quickly generate code from model definitions. It integrates with two file upload packages and supports full CRUD routes, enhancing development speed and efficiency. Perfect for developers looking to simplify workflows</h3>
 
 # Github Stats & Most Used languages: 
 <a href="https://github.com/sabbir-mahmud/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sabbir-mahmud&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
