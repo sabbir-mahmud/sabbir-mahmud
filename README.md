@@ -52,7 +52,7 @@
 
 1. [Express-controller-set](https://www.npmjs.com/package/express-controller-sets)
    
-   Description: <p>Node.js tool minimizes code duplication by offering a streamlined setup to quickly generate code from model definitions. It integrates with two file upload packages and supports full CRUD routes, enhancing development speed and efficiency. Perfect for developers looking to simplify workflows</p>
+   <p> Description: Node.js tool minimizes code duplication by offering a streamlined setup to quickly generate code from model definitions. It integrates with two file upload packages and supports full CRUD routes, enhancing development speed and efficiency. Perfect for developers looking to simplify workflows</p>
 
    - Tech Stack: Javascript, Node.js, Express.js, OOP
    - Features:
