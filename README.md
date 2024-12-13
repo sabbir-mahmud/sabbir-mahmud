@@ -45,5 +45,4 @@ A powerful Node.js package to reduce code duplication and enhance development sp
 ---
 
 ## ❤ Views and Followers  
-![Profile Views](https://komarev.com/ghpvc/?username=sabbir-mahmud)  
-![Followers](https://img.shields.io/github/followers/sabbir-mahmud?label=Followers&style=social)  
+![Profile Views](https://komarev.com/ghpvc/?username=sabbir-mahmud) ![Followers](https://img.shields.io/github/followers/sabbir-mahmud?label=Followers&style=social)  
