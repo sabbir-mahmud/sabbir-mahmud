@@ -34,17 +34,13 @@ A powerful Node.js package to reduce code duplication and enhance development sp
 
 ---
 
-## 📈 GitHub Stats  
-<a href="https://github.com/sabbir-mahmud/github-readme-stats"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sabbir-mahmud&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>  
+## 📈 GitHub Stats    
 <a href="https://github.com/sabbir-mahmud/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir-mahmud&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>  
 
 ---
 
 ## 💬 Connect with Me  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sabbir.mahmud.zim/) 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabbir-mahmud)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabbirmahmudzim/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabbir.mahmud.zim@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabbirmahmudzim/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabbir-mahmud) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabbir.mahmud.zim@gmail.com)  
 
 ---
 
