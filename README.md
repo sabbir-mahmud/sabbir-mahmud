@@ -2,9 +2,14 @@
 <h1>Welcome To <a target="_blank" href="https://sabbirmahmud.com/">SM Sabbir Mahmud's</a> Github Profile </h1>
 
 - <h3> 💻 Full-Stack Web Developer</h3>
-- <h3> 🚀 Python || Django || Node.js || Express.js || Next.js || GraphQL </h3>
+- <h3> 🚀 Python || Django || Node.js || Express.js || Next.js || React Native </h3>
 - <h3> 📫 Email: info@sabbirmahmud.com </h3>
 - <h3> 📍 Sirajganj, Bangladesh </h3>
+
+# About Me
+<h3>
+    Full-Stack Web Developer proficient in Python and JavaScript, focused on crafting innovative solutions to streamline operations and enhance user experiences. Experienced in platform integration, server optimization, and leveraging technology to boost revenue growth and performance.
+</h3>
 
 # Connect with Me
 
