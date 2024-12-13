@@ -39,7 +39,7 @@
 ![MySql](https://camo.githubusercontent.com/306d6d6b4660bd5855df58be88d983356405a654e657b688654776a30d741049/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3434373941313f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-# Tools:
+- Tools:
 ![Linux](https://img.shields.io/badge/linux-ffef00?style=for-the-badge&logo=linux&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
