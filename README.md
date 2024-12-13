@@ -34,6 +34,13 @@ A powerful Node.js package to reduce code duplication and enhance development sp
   - Ready-to-use routes with minimal setup.  
 - **Tech Stack:** JavaScript, Node.js, Express.js, OOP.  
 
+### [ISP billing system]([https://www.npmjs.com/package/express-controller-sets](https://github.com/sabbir-mahmud/radius_server_isp))  
+web application simplifies billing and inventory management for internet service providers. It automates bill collections, inventory tracking, and management, eliminating the need for spreadsheets and manual records. By reducing human error, it ensures accuracy, boosts efficiency, and enhances profitability for providers seeking a streamlined solution:  
+
+- **Features:**  
+  - Automatically generate monthly bills based on the user's package end date.  
+  - Authentication system with role-based access control  
+- **Tech Stack:** Python, Django, Celery, OOP.  
 ---
 
 ## 📈 GitHub Stats    
