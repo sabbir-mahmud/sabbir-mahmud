@@ -26,7 +26,7 @@ Hi, I'm a passionate **Full-Stack Web Developer** proficient in **Python** and *
 ## 🌟 Featured Project
 
 ### [Express-controller-set](https://www.npmjs.com/package/express-controller-sets)  
-A powerful Node.js package to reduce code duplication and enhance development speed:  
+Powerful Node.js package to reduce code duplication and enhance development speed:  
 
 - **Features:**  
   - Class-based controllers for streamlined workflows.  
@@ -35,7 +35,7 @@ A powerful Node.js package to reduce code duplication and enhance development sp
 - **Tech Stack:** JavaScript, Node.js, Express.js, OOP.  
 
 ### [ISP billing system]([https://www.npmjs.com/package/express-controller-sets](https://github.com/sabbir-mahmud/radius_server_isp))  
-web application simplifies billing and inventory management for internet service providers. It automates bill collections, inventory tracking, and management, eliminating the need for spreadsheets and manual records. By reducing human error, it ensures accuracy, boosts efficiency, and enhances profitability for providers seeking a streamlined solution:  
+Web application that simplifies billing and inventory management for internet service providers. Automates bill collection, inventory tracking, and management.:  
 
 - **Features:**  
   - Automatically generate monthly bills based on the user's package end date.  
