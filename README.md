@@ -1,57 +1,95 @@
-# Welcome to [SM Sabbir Mahmud's](https://sabbirmahmud.com/) GitHub Profile 👋
+# SM Sabbir Mahmud 👋
 
-### Full-Stack Web Developer  
-Hi, I'm a passionate **Full-Stack Web Developer** proficient in **Python** and **JavaScript**, with expertise in platform integration, server optimization, and crafting solutions to enhance user experiences. My goal is to leverage technology to streamline operations and drive revenue growth.
+### **Senior Full-Stack Engineer & Distributed Systems Architect**
+> 🚀 **Status:** Available for architectural consulting, system design, and senior engineering roles.
 
----
+I architect and deliver **high-performance, scale-ready full-stack applications** backed by robust, low-latency, and highly available systems. Over my career, I've specialized in designing unified API adapters, real-time message streams, POS database connectors, and cloud-native multi-tenant ecosystems.
 
-## 🛠 Tech Stack & Expertise
-
-### Languages  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-
-### Frameworks  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![Django Rest Framework](https://img.shields.io/badge/Django%20Rest%20Framework-ff1709?style=for-the-badge&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-
-### Databases  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-### Tools  
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-ffef00?style=for-the-badge&logo=linux&logoColor=black) [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/) [![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)](https://gunicorn.org/) [![Daphne](https://img.shields.io/badge/Daphne-292A2F?style=for-the-badge&logo=daphne&logoColor=white)](https://github.com/django/daphne) [![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)](https://pm2.keymetrics.io/)     
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0079FF?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/)
-
+[📧 Email Me](mailto:smsabbirm@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/sabbirmahmudzim/) • [🌐 Portfolio](https://sabbirmahmud.com/)
 
 ---
 
-## 🌟 Featured Project
+## ⚡ Operational Performance Benchmarks
+*Verified production achievements across enterprise deployments:*
 
-### [Express-controller-set](https://www.npmjs.com/package/express-controller-sets)  
-Powerful Node.js package to reduce code duplication and enhance development speed:  
-
-- **Features:**  
-  - Class-based controllers for streamlined workflows.  
-  - Seamless file uploads via S3 API.  
-  - Ready-to-use routes with minimal setup.  
-- **Tech Stack:** JavaScript, Node.js, Express.js, OOP.  
-
-### [ISP Billing System](https://github.com/sabbir-mahmud/radius_server_isp)
-Web application that simplifies billing and inventory management for internet service providers. Automates bill collection, inventory tracking, and management.:  
-
-- **Features:**  
-  - Automatically generate monthly bills based on the user's package end date.  
-  - Authentication system with role-based access control  
-- **Tech Stack:** Python, Django, Celery, OOP.  
----
-
-## 📈 GitHub Stats    
-<a href="https://github.com/sabbir-mahmud/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir-mahmud&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>  
+| Metric | Target | Solution Strategy |
+| :--- | :---: | :--- |
+| 🌐 **Uptime Achieved** | `99.9%` | Implemented active-passive clustering, health check indicators, and failover routing. |
+| 📈 **Client Growth** | `+35%` | Drove user expansion via reliable Otter POS aggregation webhooks & scalable backend schemas. |
+| ⚡ **Latency Reduction** | `-400ms` | Optimized query plans, customized indexes, set up Redis caching layers, and tuned Next.js SSR. |
+| 🚀 **Systems Deployed** | `12+` | Deployed production-ready services on AWS utilizing Docker containers & automated CI/CD. |
 
 ---
 
-## 💬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabbirmahmudzim/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabbir-mahmud) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabbir.mahmud.zim@gmail.com)  
+## 🛠 Tech Stack & Core Ecosystem
+
+### 💻 Languages & Environments
+- **Primary Languages:** JavaScript (ES6+), TypeScript, Python
+- **Runtimes & Frameworks:** Node.js, Express.js, Django, Django REST Framework, FastAPI
+
+### ⚡ Real-Time & Performance
+- **Messaging & Pub/Sub:** Django Channels, WebSockets (sub-100ms async updates), Redis Pub/Sub, Celery queue scheduling
+- **Caching & Pipelines:** Redis cache layers, multi-threaded background workers, automated database auditing connectors
+
+### 🎨 Client-Side & Mobile
+- **Frontend Frameworks:** Next.js (App Router, Server Components), React.js, Redux Toolkit
+- **Mobile Development:** React Native, Expo Router, Shopify Flash-List virtualized performance rendering
+
+### ☁️ Infrastructure & Orchestration
+- **Cloud & OS:** AWS (EC2, S3, VPC), DigitalOcean, Linux servers, Nginx (Reverse Proxy/SSL), Gunicorn, Daphne, PM2
+- **Containers & Versioning:** Docker, Git, CI/CD pipelines (GitHub Actions)
 
 ---
 
-## ❤ Views and Followers  
-![Profile Views](https://komarev.com/ghpvc/?username=sabbir-mahmud) ![Followers](https://img.shields.io/github/followers/sabbir-mahmud?label=Followers&style=social)  
+## 🌟 Featured Engineering Projects
+
+### 📦 [BDPayments](https://www.npmjs.com/package/bdpayments) `v1.0.3`
+*Centralized payment gateway abstraction library.*
+- **Problem Solved:** Decoupled Stripe, SSLCommerz, bKash, and Nagad into a lazy-loaded provider interface.
+- **Impact:** Unified charge, refund, and retrieval actions into a clean, type-safe API for Node.js developers.
+- **Tech Stack:** TypeScript, Node.js, Stripe, SSLCommerz API, bKash SDK.
+
+### 📦 [BDDeliveries](https://www.npmjs.com/package/bddeliveries) `v1.0.0`
+*Centralized delivery gateway abstraction wrapper.*
+- **Problem Solved:** Normalizes delivery creation, updates, tracking, and cancellations across Pathao, Steadfast, and Paperfly couriers.
+- **Tech Stack:** TypeScript, Node.js, Pathao Webhooks, Courier APIs.
+
+### 📦 [Express Controller Sets](https://www.npmjs.com/package/express-controller-sets) `2.5k+ Installs`
+*Boilerplate router control framework for Node.js/Express.js.*
+- **Problem Solved:** Minimizes route boilerplate. Instantiates database schemas directly into validated REST endpoints.
+- **Impact:** Supports Mongoose validation, express-controller-sets-router, and instant S3 file uploads.
+- **Tech Stack:** Node.js, Express, MongoDB, AWS S3 API.
+
+### 🌐 [Radius ISP Billing System](https://github.com/sabbir-mahmud/radius_server_isp) `18+ Stars`
+*Enterprise Billing & Automation for Internet Service Providers.*
+- **Features:** Integrates with Mikrotik API for bandwidth controls and radius server profiles. Automates invoices and ledger updates.
+- **Tech Stack:** Python, Django, Celery, Mikrotik API, PostgreSQL, Redis.
+
+### 🛠 [Python Advanced Invoice Generator](https://github.com/sabbir-mahmud/python-advanced-pdf-generator)
+*High-fidelity PDF document rendering engine.*
+- **Features:** Compiled Jinja2 templates into HTML schemas, then printed high-fidelity PDFs via wkhtmltopdf compilation.
+- **Tech Stack:** Python, Django, Jinja2, Pdfkit, wkhtmltopdf.
+
+---
+
+## 📊 Analytics & Social Activity
+
+<p align="left">
+  <a href="https://github.com/sabbir-mahmud">
+    <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=sabbir-mahmud&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Sabbir's Top Languages" />
+  </a>
+</p>
+
+### 🤝 Let's Collaborate
+If you are looking to build highly available distributed systems, integrate real-time operations, optimize database queries, or bootstrap a modern React/Next.js/React Native application:
+
+- **Email:** [smsabbirm@gmail.com](mailto:smsabbirm@gmail.com)
+- **LinkedIn:** [linkedin.com/in/sabbirmahmudzim](https://www.linkedin.com/in/sabbirmahmudzim/)
+- **GitHub:** [github.com/sabbir-mahmud](https://github.com/sabbir-mahmud)
+
+<br />
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sabbir-mahmud&color=blue" alt="Profile Views" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/sabbir-mahmud?label=Followers&style=social" alt="Followers" />
+</p>
