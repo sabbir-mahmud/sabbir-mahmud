@@ -43,6 +43,12 @@ I architect and deliver **high-performance, scale-ready full-stack applications*
 
 ## 🌟 Featured Engineering Projects
 
+### 💻 [Black AI IDE](https://github.com/ornate-source/blackIDE) `Custom VS Code Build`
+*Custom, telemetry-free distribution of VS Code.*
+- **Problem Solved:** Patched out tracking/telemetry endpoints by default and integrated a native AI coding assistant and agentic loop engine into the activity bar.
+- **Impact:** Delivers a secure, private, and customizable IDE with automated cross-platform build pipelines (macOS, Linux, Windows).
+- **Tech Stack:** VS Code, VSCodium, Electron, TypeScript, Node.js, AI Agent.
+
 ### 📦 [BDPayments](https://www.npmjs.com/package/bdpayments) `v1.0.3`
 *Centralized payment gateway abstraction library.*
 - **Problem Solved:** Decoupled Stripe, SSLCommerz, bKash, and Nagad into a lazy-loaded provider interface.
