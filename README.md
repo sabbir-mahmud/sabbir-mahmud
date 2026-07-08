@@ -24,6 +24,8 @@
 
 ### Tech Stack
 
+</div>
+
 <table width="100%">
 <tr>
 <td align="center" width="16.66%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FJavaScript.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
@@ -50,8 +52,6 @@
 <td align="center" width="16.66%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FReact-Dark.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="React Native"/><br/><sub>React Native</sub></td>
 </tr>
 </table>
-
-</div>
 
 <br/>
 
