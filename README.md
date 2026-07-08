@@ -106,22 +106,6 @@
 
 <div align="center">
 
-### GitHub Activity
-
-<table width="100%">
-<tr>
-<td colspan="2" align="center">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbir-mahmud&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=06B6D4" />
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ### Let's Build Something
 
 Looking to build highly available distributed systems, integrate real-time operations, optimize database queries, or bootstrap a modern React / Next.js / React Native application? Let's talk.
