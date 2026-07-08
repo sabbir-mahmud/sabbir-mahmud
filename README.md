@@ -19,31 +19,6 @@
 <br/>
 <br/>
 
-
-<div align="center">
-
-### Tech Stack
-
-**Languages & Runtimes**
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs&theme=dark" alt="Languages" />
-
-**Backend Frameworks**
-
-<img src="https://skillicons.dev/icons?i=express,django,fastapi&theme=dark" alt="Backend" />
-
-**Frontend & Mobile**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,expo&theme=dark" alt="Frontend" />
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,git,redis&theme=dark" alt="DevOps" />
-
-</div>
-
-<br/>
-
 ## Featured Projects
 
 <table>
