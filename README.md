@@ -24,38 +24,23 @@
 
 ### Tech Stack
 
-</div>
+**Languages & Runtimes**
 
-<table width="100%">
-<tr>
-<td align="center" width="25%"><img src="https://raw.githubusercontent.com/mathiasbynens/small/master/gif.gif" width="210" height="1" alt="" /><br/><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FJavaScript.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
-<td align="center" width="25%"><img src="https://raw.githubusercontent.com/mathiasbynens/small/master/gif.gif" width="210" height="1" alt="" /><br/><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FTypeScript.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="TypeScript"/><br/><sub>TypeScript</sub></td>
-<td align="center" width="25%"><img src="https://raw.githubusercontent.com/mathiasbynens/small/master/gif.gif" width="210" height="1" alt="" /><br/><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FPython-Dark.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="Python"/><br/><sub>Python</sub></td>
-<td align="center" width="25%"><img src="https://raw.githubusercontent.com/mathiasbynens/small/master/gif.gif" width="210" height="1" alt="" /><br/><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FNodeJS-Dark.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="Node.js"/><br/><sub>Node.js</sub></td>
-</tr>
-<tr>
-<td align="center" width="25%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FExpressJS-Dark.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="Express"/><br/><sub>Express</sub></td>
-<td align="center" width="25%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FDjango.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="Django"/><br/><sub>Django</sub></td>
-<td align="center" width="25%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FFastAPI.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
-<td align="center" width="25%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FRedis-Dark.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="Redis"/><br/><sub>Redis</sub></td>
-</tr>
-<tr>
-<td align="center" width="25%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FReact-Dark.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="React"/><br/><sub>React</sub></td>
-<td align="center" width="25%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FNextJS-Dark.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="Next.js"/><br/><sub>Next.js</sub></td>
-<td align="center" width="25%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FRedux.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="Redux"/><br/><sub>Redux</sub></td>
-<td align="center" width="25%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.simpleicons.org%2Fexpo%2FFFFFFF&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="Expo"/><br/><sub>Expo</sub></td>
-</tr>
-<tr>
-<td align="center" width="25%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FAWS-Dark.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="AWS"/><br/><sub>AWS</sub></td>
-<td align="center" width="25%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FDocker.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="Docker"/><br/><sub>Docker</sub></td>
-<td align="center" width="25%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FNginx.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="Nginx"/><br/><sub>Nginx</sub></td>
-<td align="center" width="25%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FGithubActions-Dark.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="GitHub Actions"/><br/><sub>GitHub Actions</sub></td>
-</tr>
-<tr>
-<td align="center" colspan="2" width="50%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FGit.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="Git"/><br/><sub>Git</sub></td>
-<td align="center" colspan="2" width="50%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FReact-Dark.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="React Native"/><br/><sub>React Native</sub></td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs&theme=dark" alt="Languages" />
+
+**Backend Frameworks**
+
+<img src="https://skillicons.dev/icons?i=express,django,fastapi&theme=dark" alt="Backend" />
+
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,expo&theme=dark" alt="Frontend" />
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,git,redis&theme=dark" alt="DevOps" />
+
+</div>
 
 <br/>
 
