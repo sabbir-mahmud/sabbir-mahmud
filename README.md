@@ -110,8 +110,7 @@
 
 Looking to build highly available distributed systems, integrate real-time operations, optimize database queries, or bootstrap a modern React / Next.js / React Native application? Let's talk.
 
-[![Email](https://img.shields.io/badge/-smsabbirm%40gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smsabbirm@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabbirmahmudzim/)
+[![Email](https://img.shields.io/badge/-info%40sabbirmahmud.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@sabbirmahmud.com)
 [![GitHub](https://img.shields.io/badge/-Follow-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabbir-mahmud)
 
 <sub>
