@@ -1,101 +1,140 @@
-# SM Sabbir Mahmud 👋
+<div align="center">
 
-### **Senior Full-Stack Engineer & Distributed Systems Architect**
-> 🚀 **Status:** Available for architectural consulting, system design, and senior engineering roles.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Sabbir%20Mahmud&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer%20%C2%B7%20Distributed%20Systems%20Architect&descAlignY=58&descSize=18" width="100%" />
 
-I architect and deliver **high-performance, scale-ready full-stack applications** backed by robust, low-latency, and highly available systems. Over my career, I've specialized in designing unified API adapters, real-time message streams, POS database connectors, and cloud-native multi-tenant ecosystems.
+<a href="https://sabbirmahmud.com/">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+low-latency%2C+highly-available+systems;Real-time+streams+%C2%B7+POS+connectors+%C2%B7+Cloud-native+APIs;Available+for+architecture+%26+senior+eng+roles&font=Fira+Code&center=true&width=650&height=40&color=6366F1&vCenter=true&size=18" alt="Typing SVG" />
+</a>
 
-[📧 Email Me](mailto:smsabbirm@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/sabbirmahmudzim/) • [🌐 Portfolio](https://sabbirmahmud.com/)
+<br/>
 
----
+[![Email](https://img.shields.io/badge/-Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smsabbirm@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabbirmahmudzim/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://sabbirmahmud.com/)
 
-## ⚡ Operational Performance Benchmarks
-*Verified production achievements across enterprise deployments:*
+</div>
 
-| Metric | Target | Solution Strategy |
-| :--- | :---: | :--- |
-| 🌐 **Uptime Achieved** | `99.9%` | Implemented active-passive clustering, health check indicators, and failover routing. |
-| 📈 **Client Growth** | `+35%` | Drove user expansion via reliable Otter POS aggregation webhooks & scalable backend schemas. |
-| ⚡ **Latency Reduction** | `-400ms` | Optimized query plans, customized indexes, set up Redis caching layers, and tuned Next.js SSR. |
-| 🚀 **Systems Deployed** | `12+` | Deployed production-ready services on AWS utilizing Docker containers & automated CI/CD. |
 
----
+<br/>
+<br/>
+<br/>
 
-## 🛠 Tech Stack & Core Ecosystem
 
-### 💻 Languages & Environments
-- **Primary Languages:** JavaScript (ES6+), TypeScript, Python
-- **Runtimes & Frameworks:** Node.js, Express.js, Django, Django REST Framework, FastAPI
+<div align="center">
 
-### ⚡ Real-Time & Performance
-- **Messaging & Pub/Sub:** Django Channels, WebSockets (sub-100ms async updates), Redis Pub/Sub, Celery queue scheduling
-- **Caching & Pipelines:** Redis cache layers, multi-threaded background workers, automated database auditing connectors
+### Tech Stack
 
-### 🎨 Client-Side & Mobile
-- **Frontend Frameworks:** Next.js (App Router, Server Components), React.js, Redux Toolkit
-- **Mobile Development:** React Native, Expo Router, Shopify Flash-List virtualized performance rendering
+<table width="100%">
+<tr>
+<td align="center" width="16.66%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FJavaScript.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
+<td align="center" width="16.66%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FTypeScript.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="TypeScript"/><br/><sub>TypeScript</sub></td>
+<td align="center" width="16.66%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FPython-Dark.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="Python"/><br/><sub>Python</sub></td>
+<td align="center" width="16.66%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FNodeJS-Dark.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="Node.js"/><br/><sub>Node.js</sub></td>
+<td align="center" width="16.66%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FExpressJS-Dark.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="Express"/><br/><sub>Express</sub></td>
+<td align="center" width="16.66%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FDjango.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="Django"/><br/><sub>Django</sub></td>
+</tr>
+<tr>
+<td align="center" width="16.66%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FFastAPI.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
+<td align="center" width="16.66%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FRedis-Dark.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="Redis"/><br/><sub>Redis</sub></td>
+<td align="center" width="16.66%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FReact-Dark.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="React"/><br/><sub>React</sub></td>
+<td align="center" width="16.66%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FNextJS-Dark.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="Next.js"/><br/><sub>Next.js</sub></td>
+<td align="center" width="16.66%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FRedux.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="Redux"/><br/><sub>Redux</sub></td>
+<td align="center" width="16.66%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.simpleicons.org%2Fexpo%2FFFFFFF&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="Expo"/><br/><sub>Expo</sub></td>
+</tr>
+<tr>
+<td align="center" width="16.66%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FAWS-Dark.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="AWS"/><br/><sub>AWS</sub></td>
+<td align="center" width="16.66%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FDocker.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="Docker"/><br/><sub>Docker</sub></td>
+<td align="center" width="16.66%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FNginx.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="Nginx"/><br/><sub>Nginx</sub></td>
+<td align="center" width="16.66%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FGithubActions-Dark.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="GitHub Actions"/><br/><sub>GitHub Actions</sub></td>
+<td align="center" width="16.66%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FGit.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="Git"/><br/><sub>Git</sub></td>
+<td align="center" width="16.66%"><img src="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftandpfun%2Fskill-icons%2Fmain%2Ficons%2FReact-Dark.svg&w=100&h=100&fit=contain&mask=circle&bg=161B22&maxage=30d&output=png" width="60" height="60" alt="React Native"/><br/><sub>React Native</sub></td>
+</tr>
+</table>
 
-### ☁️ Infrastructure & Orchestration
-- **Cloud & OS:** AWS (EC2, S3, VPC), DigitalOcean, Linux servers, Nginx (Reverse Proxy/SSL), Gunicorn, Daphne, PM2
-- **Containers & Versioning:** Docker, Git, CI/CD pipelines (GitHub Actions)
+</div>
 
----
+<br/>
 
-## 🌟 Featured Engineering Projects
+## Featured Projects
 
-### 💻 [Black AI IDE](https://github.com/ornate-source/blackIDE) `Custom VS Code Build`
-*Custom, telemetry-free distribution of VS Code.*
-- **Problem Solved:** Patched out tracking/telemetry endpoints by default and integrated a native AI coding assistant and agentic loop engine into the activity bar.
-- **Impact:** Delivers a secure, private, and customizable IDE with automated cross-platform build pipelines (macOS, Linux, Windows).
-- **Tech Stack:** VS Code, VSCodium, Electron, TypeScript, Node.js, AI Agent.
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>💻 <a href="https://github.com/ornate-source/blackIDE">Black AI IDE</a></h3>
+<p><em>Custom, telemetry-free VS Code distribution</em></p>
+<p>Patches out tracking and telemetry endpoints by default, then adds a native AI coding assistant with a full agentic loop engine directly into the activity bar for a private, fully customizable editor.</p>
+<img src="https://skillicons.dev/icons?i=vscode,electron,ts&theme=dark" />
+</td>
+<td width="50%" valign="top">
+<h3>🌐 <a href="https://github.com/sabbir-mahmud/radius_server_isp">Radius ISP Billing System</a></h3>
+<p><em>Enterprise billing & automation for ISPs · ⭐ 18+</em></p>
+<p>Integrates with the Mikrotik API for live bandwidth control and RADIUS server profiles, automating customer invoices and ledger updates end-to-end so ISP operators never touch billing spreadsheets again.</p>
+<img src="https://skillicons.dev/icons?i=python,django,redis,postgres&theme=dark" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📦 <a href="https://www.npmjs.com/package/bdpayments">BDPayments</a> <code>v1.0.3</code></h3>
+<p><em>Centralized payment gateway abstraction</em></p>
+<p>Decouples Stripe, SSLCommerz, bKash, and Nagad behind a single lazy-loaded provider interface, giving Node.js developers one clean, type-safe API for charge, refund, and retrieval actions across all four gateways.</p>
+<img src="https://skillicons.dev/icons?i=ts,nodejs,stripe&theme=dark" />
+</td>
+<td width="50%" valign="top">
+<h3>📦 <a href="https://www.npmjs.com/package/bddeliveries">BDDeliveries</a> <code>v1.0.0</code></h3>
+<p><em>Centralized delivery gateway abstraction</em></p>
+<p>Normalizes delivery creation, status updates, live tracking, and cancellations across Pathao, Steadfast, and Paperfly couriers behind one consistent interface, so switching providers never means rewriting integration code.</p>
+<img src="https://skillicons.dev/icons?i=ts,nodejs&theme=dark" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📦 <a href="https://www.npmjs.com/package/express-controller-sets">Express Controller Sets</a> · 2.5k+ installs</h3>
+<p><em>Boilerplate router framework for Express.js</em></p>
+<p>Instantiates Mongoose database schemas directly into validated REST endpoints, cutting out repetitive router boilerplate while still supporting full request validation and instant S3 file uploads out of the box.</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,aws&theme=dark" />
+</td>
+<td width="50%" valign="top">
+<h3>🛠 <a href="https://github.com/sabbir-mahmud/python-advanced-pdf-generator">Advanced Invoice Generator</a></h3>
+<p><em>High-fidelity PDF rendering engine</em></p>
+<p>Compiles Jinja2 templates into structured HTML schemas, then renders them into high-fidelity, print-ready PDF invoices via wkhtmltopdf compilation, ideal for automated billing and document generation pipelines.</p>
+<img src="https://skillicons.dev/icons?i=python,django&theme=dark" />
+</td>
+</tr>
+</table>
 
-### 📦 [BDPayments](https://www.npmjs.com/package/bdpayments) `v1.0.3`
-*Centralized payment gateway abstraction library.*
-- **Problem Solved:** Decoupled Stripe, SSLCommerz, bKash, and Nagad into a lazy-loaded provider interface.
-- **Impact:** Unified charge, refund, and retrieval actions into a clean, type-safe API for Node.js developers.
-- **Tech Stack:** TypeScript, Node.js, Stripe, SSLCommerz API, bKash SDK.
+<br/>
 
-### 📦 [BDDeliveries](https://www.npmjs.com/package/bddeliveries) `v1.0.0`
-*Centralized delivery gateway abstraction wrapper.*
-- **Problem Solved:** Normalizes delivery creation, updates, tracking, and cancellations across Pathao, Steadfast, and Paperfly couriers.
-- **Tech Stack:** TypeScript, Node.js, Pathao Webhooks, Courier APIs.
+<div align="center">
 
-### 📦 [Express Controller Sets](https://www.npmjs.com/package/express-controller-sets) `2.5k+ Installs`
-*Boilerplate router control framework for Node.js/Express.js.*
-- **Problem Solved:** Minimizes route boilerplate. Instantiates database schemas directly into validated REST endpoints.
-- **Impact:** Supports Mongoose validation, express-controller-sets-router, and instant S3 file uploads.
-- **Tech Stack:** Node.js, Express, MongoDB, AWS S3 API.
+### GitHub Activity
 
-### 🌐 [Radius ISP Billing System](https://github.com/sabbir-mahmud/radius_server_isp) `18+ Stars`
-*Enterprise Billing & Automation for Internet Service Providers.*
-- **Features:** Integrates with Mikrotik API for bandwidth controls and radius server profiles. Automates invoices and ledger updates.
-- **Tech Stack:** Python, Django, Celery, Mikrotik API, PostgreSQL, Redis.
+<table width="100%">
+<tr>
+<td colspan="2" align="center">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbir-mahmud&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=06B6D4" />
+</td>
+</tr>
+</table>
 
-### 🛠 [Python Advanced Invoice Generator](https://github.com/sabbir-mahmud/python-advanced-pdf-generator)
-*High-fidelity PDF document rendering engine.*
-- **Features:** Compiled Jinja2 templates into HTML schemas, then printed high-fidelity PDFs via wkhtmltopdf compilation.
-- **Tech Stack:** Python, Django, Jinja2, Pdfkit, wkhtmltopdf.
+</div>
 
----
+<br/>
 
-## 📊 Analytics & Social Activity
+<div align="center">
 
-<p align="left">
-  <a href="https://github.com/sabbir-mahmud">
-    <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=sabbir-mahmud&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Sabbir's Top Languages" />
-  </a>
-</p>
+### Let's Build Something
 
-### 🤝 Let's Collaborate
-If you are looking to build highly available distributed systems, integrate real-time operations, optimize database queries, or bootstrap a modern React/Next.js/React Native application:
+Looking to build highly available distributed systems, integrate real-time operations, optimize database queries, or bootstrap a modern React / Next.js / React Native application? Let's talk.
 
-- **Email:** [smsabbirm@gmail.com](mailto:smsabbirm@gmail.com)
-- **LinkedIn:** [linkedin.com/in/sabbirmahmudzim](https://www.linkedin.com/in/sabbirmahmudzim/)
-- **GitHub:** [github.com/sabbir-mahmud](https://github.com/sabbir-mahmud)
+[![Email](https://img.shields.io/badge/-smsabbirm%40gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smsabbirm@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabbirmahmudzim/)
+[![GitHub](https://img.shields.io/badge/-Follow-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabbir-mahmud)
 
-<br />
+<sub>
+<img src="https://komarev.com/ghpvc/?username=sabbir-mahmud&color=6366F1&style=flat-square" /> &nbsp;
+<img src="https://img.shields.io/github/followers/sabbir-mahmud?label=Followers&style=flat-square&color=6366F1" />
+</sub>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sabbir-mahmud&color=blue" alt="Profile Views" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/sabbir-mahmud?label=Followers&style=social" alt="Followers" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer" width="100%" />
+
+</div>
