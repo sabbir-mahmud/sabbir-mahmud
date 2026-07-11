@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Sabbir%20Mahmud&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer%20%C2%B7%20Distributed%20Systems%20Architect&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Sabbir%20Mahmud&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Distributed%20Systems%20Architect&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://sabbirmahmud.com/">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+low-latency%2C+highly-available+systems;Real-time+streams+%C2%B7+POS+connectors+%C2%B7+Cloud-native+APIs;Available+for+architecture+%26+senior+eng+roles&font=Fira+Code&center=true&width=650&height=40&color=6366F1&vCenter=true&size=18" alt="Typing SVG" />
